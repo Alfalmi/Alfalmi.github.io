@@ -3967,6 +3967,13 @@ input[type=button].btn-block {
   float: none;
 }
 
+.navbar .container .img-fluid {
+padding: 0%;
+margin: 0%;
+  max-width: 50px;
+
+}
+
 .navbar-text {
   display: inline-block;
   padding-top: 0.5rem;
