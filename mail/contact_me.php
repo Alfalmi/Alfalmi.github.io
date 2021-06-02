@@ -5,10 +5,15 @@ if(empty($_POST['name']) || empty($_POST['email']) || empty($_POST['phone']) || 
   exit();
 }
 
-$name = strip_tags(htmlspecialchars($_POST['name']));
-$email = strip_tags(htmlspecialchars($_POST['email']));
-$phone = strip_tags(htmlspecialchars($_POST['phone']));
-$message = strip_tags(htmlspecialchars($_POST['message']));
+$name = $_POST['name'];
+$email = $_POST['email'];
+$phone = $_POST['phone'];
+$message = $_POST['message'];
+
+//$header = 'From: ' .$email . "\r\n";
+//$header .= "X-Mailer: PHP/" . phpversion() . "\r\n";
+//$header .= "Mime-Version: 1.0 \r\n";
+//$header .= "Content-Type: text/plain";
 
 // Create the email and send the message
 $to = "alfonso_alvarez@alfalmi.com"; // Add your email address in between the "" replacing yourname@yourdomain.com - This is where the form will send a message to.
@@ -17,6 +22,6 @@ $body = "You have received a new message from your website contact form.\n\n"."H
 $header = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $header .= "Reply-To: $email";	
 
-if(!mail($to, $subject, $body, $header))
+if(!mail($to, $subject, utf8_decode($body), $header))
   http_response_code(500);
 ?>
