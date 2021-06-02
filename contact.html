@@ -10,7 +10,7 @@
       <link href="css/styles.css" rel="stylesheet">
       <link href="css/styleshome.css" rel="stylesheet">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
-      <script src="mail/smtp.js"></script>
+      
       
   
       
@@ -107,7 +107,7 @@
                     <h2 class="tm-color-primary tm-post-title tm-mb-60">Enviar un mensaje</h2>
                 </div>
                 <div class="col-lg-7 tm-contact-left">
-                    <form method="POST" action="" class="mb-5 ml-auto mr-0 tm-contact-form">                        
+                    <form class="mb-5 ml-auto mr-0 tm-contact-form form" action="https://formspree.io/f/meqvgvqw" method="POST">                        
                         <div class="form-group row mb-4">
                             <label name="name" class="col-sm-3 col-form-label text-right tm-color-primary">Nombre</label>
                             <div class="col-sm-9">
@@ -117,7 +117,7 @@
                         <div class="form-group row mb-4">
                             <label name="email" class="col-sm-3 col-form-label text-right tm-color-primary">Email</label>
                             <div class="col-sm-9">
-                                <input class="form-control mr-0 ml-auto" name="email" id="email" type="email" required>
+                                <input class="form-control mr-0 ml-auto" name="_replyto" id="email" type="email" required>
                             </div>
                         </div>
                         <div class="form-group row mb-4">
