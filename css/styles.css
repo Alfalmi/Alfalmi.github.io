@@ -485,12 +485,12 @@ a:hover figcaption { color: #056767; }
 
 
 
-@media (max-width: 1540px) {
+@media (max-width: 1920px) {
 
     .tm-header { width: 320px; }
 
     .tm-main {
-        margin-left: 7%;
+        margin-left: 6%;
         
     }
 
