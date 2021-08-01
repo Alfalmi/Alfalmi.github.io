@@ -1,0 +1,166 @@
+{
+    "basic_info": {
+      "description_header": "Hi, I'm Alfonso Álvarez Miranda",
+      "description": "👋 Freelance programmer and technology lover dedicated to web development, software develoment and data analysis",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "React Calculator",
+        "startDate": "2020",
+        "description": "A simple react calculator.",
+        "images": [
+          "images/portfolio/calculadorajs.png"
+        ],
+        "url": "https://alfalmi.com/js-react-calculator/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Drumpad Machine",
+        "startDate": "2021",
+        "description": "Drumpad machine made with React and AWS Storage",
+        "images": [
+          "images/portfolio/d-pad.png"
+        ],
+        "url": "https://alfalmi.com/drumpad-machine/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Pomodoro Clock",
+        "startDate": "2021",
+        "description": "Pomodoro or 25+5 clock made with React and Typescript.",
+        "images": [
+          "images/portfolio/pomodoro.png"
+        ],
+        "url": "https://alfalmi.com/pomodoroReact/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Audio Player",
+        "startDate": "2021",
+        "description": "Simple audio player made with React.",
+        "images": [
+          "images/portfolio/audioplayer.png"
+        ],
+        "url": "https://alfalmi.com/music-player-react/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+          
+          
+        ]
+      },
+      {
+        "title": "Drum App",
+        "startDate": "2021",
+        "description": "Application that emulates and records the sounds of a drum made with React and AWS Storage",
+        "images": [
+          "images/portfolio/drum.png"
+        ],
+        "url": "https://alfalmi.com/drum-machine/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Weather App",
+        "startDate": "2021",
+        "description": "Weather app made with Javascript and the Openweather API hecho con Javascript y la API OpenWeather",
+        "images": [
+          "images/portfolio/weatherapp.png"
+        ],
+        "url": "https://alfalmi.com/weather-app-owmapi/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "title": "Front-End Developer",
+        "years": "8.2020 - today",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap"
+          
+        ]
+      },
+      {
+        "company": "Freelance",
+        "title": "Programmer",
+        "years": "01.2019 - today",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "Machine learning",
+          "Data Science",
+          "Web Development"
+        ]
+      }
+    ]
+  }
