@@ -131,7 +131,7 @@
       {
         "title": "Random Quote",
         "startDate": "2021",
-        "description": "Aplicacion que genera una frase aleatoria hecha con Javascript y la API RandomQuotes",
+        "description": "Random quotes from randomQuotes API made with Javascript",
         "images": [
           "images/portfolio/qt-gen.png"
         ],
@@ -155,7 +155,7 @@
       {
         "title": "Memorama",
         "startDate": "2021",
-        "description": "Memorama game made with ReactJS",
+        "description": "Memory game made with ReactJS",
         "images": [
           "images/portfolio/memorama-img.png"
         ],
