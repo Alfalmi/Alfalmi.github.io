@@ -24,8 +24,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -62,8 +62,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
           
         ]
@@ -82,8 +82,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
           
         ]
@@ -102,8 +102,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
           
         ]
@@ -122,12 +122,81 @@
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Random Quote",
+        "startDate": "2021",
+        "description": "Aplicacion que genera una frase aleatoria hecha con Javascript y la API RandomQuotes",
+        "images": [
+          "images/portfolio/qt-gen.png"
+        ],
+        "url": "https://alfalmi.com/randomQuotesjs/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+          
+        ]
+      },
+      {
+        "title": "Memorama",
+        "startDate": "2021",
+        "description": "Juego Memorama hecho con ReactJS",
+        "images": [
+          "images/portfolio/memorama-img.png"
+        ],
+        "url": "https://alfalmi.com/memory-game/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Tetris",
+        "startDate": "2021",
+        "description": "Juego Tetris hecho con JavaScript",
+        "images": [
+          "images/portfolio/tetris-img.png"
+        ],
+        "url": "https://alfalmi.com/tetris-javascript/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
           
         ]
       }
+     
     ],
     "experience": [
       {
