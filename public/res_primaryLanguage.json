@@ -173,26 +173,23 @@
         ]
       },
       {
-        "title": "Tetris",
+        "title": "Hotel reservation site",
         "startDate": "2021",
-        "description": "Juego Tetris hecho con JavaScript",
+        "description": "Sitio para reservar una habitacion de hotel",
         "images": [
-          "images/portfolio/tetris-img.png"
+          "images/portfolio/reservation.png"
         ],
-        "url": "https://alfalmi.com/tetris-javascript/",
+        "url": "https://alfalmi.com/resort-hotel-reservation-react/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-react-original",
+            "name": "React"
           }
+         
           
         ]
       }
