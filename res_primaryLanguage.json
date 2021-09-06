@@ -30,13 +30,13 @@
         ]
       },
       {
-        "title": "Drumpad Machine",
+        "title": "Island Landing Page",
         "startDate": "2021",
-        "description": "Drumpad hecho con React y AWS storage",
+        "description": "Landing page hecha con React y material-ui",
         "images": [
-          "images/portfolio/d-pad.png"
+          "images/portfolio/landing_page.png"
         ],
-        "url": "https://alfalmi.com/drumpad-machine/",
+        "url": "https://alfalmi.com/island-landing-page-react/",
         "technologies": [
           {
             "class": "devicon-react-original",
