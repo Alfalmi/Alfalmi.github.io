@@ -30,13 +30,13 @@
         ]
       },
       {
-        "title": "Drumpad Machine",
+        "title": "Island Landing Page",
         "startDate": "2021",
-        "description": "Drumpad machine made with React and AWS Storage",
+        "description": "Landing page made with React and material-ui",
         "images": [
-          "images/portfolio/d-pad.png"
+          "images/portfolio/landing_page.png"
         ],
-        "url": "https://alfalmi.com/drumpad-machine/",
+        "url": "https://alfalmi.com/island-landing-page-react/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -46,6 +46,26 @@
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
+        ]
+      },
+      {
+        "title": "Reloj Pomodoro",
+        "startDate": "2021",
+        "description": "Reloj Pomodoro o 25+5 hecho con react",
+        "images": [
+          "images/portfolio/pomodoro.png"
+        ],
+        "url": "https://alfalmi.com/pomodoroReact/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
         ]
       },
       {
