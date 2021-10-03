@@ -51,9 +51,9 @@
       {
         "title": "Reloj Pomodoro",
         "startDate": "2021",
-        "description": "Reloj Pomodoro o 25+5 hecho con react",
+        "description": "Eccomerce made with commersejs api and stripe",
         "images": [
-          "images/portfolio/pomodoro.png"
+          "images/portfolio/commercejs.png"
         ],
         "url": "https://alfalmi.com/pomodoroReact/",
         "technologies": [
@@ -68,25 +68,7 @@
           
         ]
       },
-      {
-        "title": "Pomodoro Clock",
-        "startDate": "2021",
-        "description": "Pomodoro or 25+5 clock made with React and Typescript.",
-        "images": [
-          "images/portfolio/pomodoro.png"
-        ],
-        "url": "https://alfalmi.com/pomodoroReact/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
+      
       {
         "title": "Audio Player",
         "startDate": "2021",
