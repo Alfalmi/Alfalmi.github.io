@@ -49,13 +49,13 @@
         ]
       },
       {
-        "title": "Reloj Pomodoro",
+        "title": "Ecommerce",
         "startDate": "2021",
-        "description": "Reloj Pomodoro o 25+5 hecho con react",
+        "description": "Ecommerce hecho con react y commercejs",
         "images": [
-          "images/portfolio/pomodoro.png"
+          "images/portfolio/commercejs.png"
         ],
-        "url": "https://alfalmi.com/pomodoroReact/",
+        "url": "https://ecommercejs-stripe.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
