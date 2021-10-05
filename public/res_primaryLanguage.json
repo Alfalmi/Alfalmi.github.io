@@ -69,13 +69,13 @@
         ]
       },
       {
-        "title": "Reproductor de Audio",
+        "title": "Lista de tareas",
         "startDate": "2021",
-        "description": "Simple reproductor de audio hecho con react",
+        "description": "To-do list app usando el local storage para guardar la información",
         "images": [
-          "images/portfolio/audioplayer.png"
+          "images/portfolio/todo-list.png"
         ],
-        "url": "https://alfalmi.com/music-player-react/",
+        "url": "https://alfalmi.com/to_do_List-localStorage/",
         "technologies": [
           {
             "class": "devicon-react-original",
