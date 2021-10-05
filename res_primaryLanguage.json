@@ -73,7 +73,7 @@
         "startDate": "2021",
         "description": "To-do list app usando el local storage para guardar la información",
         "images": [
-          "images/portfolio/todo-list.png"
+          "images/portfolio/todolist.png"
         ],
         "url": "https://alfalmi.com/to_do_List-localStorage/",
         "technologies": [
