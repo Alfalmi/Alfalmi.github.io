@@ -70,13 +70,13 @@
       },
       
       {
-        "title": "Audio Player",
+        "title": "To-do list app",
         "startDate": "2021",
-        "description": "Simple audio player made with React.",
+        "description": "To-do list app using local storage to save the data",
         "images": [
-          "images/portfolio/audioplayer.png"
+          "images/portfolio/todo-list.png"
         ],
-        "url": "https://alfalmi.com/music-player-react/",
+        "url": "https://alfalmi.com/to_do_List-localStorage/",
         "technologies": [
           {
             "class": "devicon-react-original",
