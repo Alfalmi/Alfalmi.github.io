@@ -1,6 +1,6 @@
 ---
 title: Fotopolimerización en tina (SLA) 
-image: ../../images/research/time-travel.png
+image: ../../images/research/SLA.jpg
 order: 3
 ---
 La fotopolimerización ocurre exponiendo una resina líquida fotosensible a una fuente de luz. Controlando la fuente de luz, puedes dar forma a un objeto. 

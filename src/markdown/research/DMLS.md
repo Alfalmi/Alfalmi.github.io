@@ -1,6 +1,6 @@
 ---
 title: Fusión de capa de polvo (DMLS) 
-image: ../../images/research/time-travel.png
+image: ../../images/research/DMLS.jpg
 order: 7
 ---
 

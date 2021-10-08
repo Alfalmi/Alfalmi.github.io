@@ -1,6 +1,6 @@
 ---
 title: Fusión de capa de polvo (SLS, MJF) 
-image: ../../images/research/time-travel.png
+image: ../../images/research/SLS.jpg
 order: 4
 ---
 Mediante la sinterizacion o fundicion de particulas de polvo plastico es poosible fabricar piezas completamente solidas. 

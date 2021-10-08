@@ -1,6 +1,6 @@
 ---
 title: PolyJet (PJ, MJ) 
-image: ../../images/research/time-travel.png
+image: ../../images/research/PJ.jpg
 order: 5
 ---
 

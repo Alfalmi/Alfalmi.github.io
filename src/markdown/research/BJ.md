@@ -1,6 +1,6 @@
 ---
 title: Binder Jetting (BJ) 
-image: ../../images/research/time-travel.png
+image: ../../images/research/BJ.jpg
 order: 6
 ---
 Esta tecnología se basa en ir colocando capas completas de material en polvo (base de calcio) y va depositando pequeñas gotas de aglutinante y tinta en lugares específicos, al terminar, la máquina coloca otra capa de polvo y repite el proceso.  

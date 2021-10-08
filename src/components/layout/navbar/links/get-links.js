@@ -7,13 +7,13 @@ import Link from "../../../link/link"
 const getLinks = links => {
   const linkComponents = {
     people: (
-      <Link key="blog" to="/">
+      <Link key="blog" to="/blog">
         <FontAwesomeIcon icon={faCode} />
         Blog
       </Link>
     ),
     publications: (
-      <Link key="about" to="https://alfalmi.com/">
+      <Link key="about" to="https://alfalmi.com/portfolio">
         <FontAwesomeIcon icon={faIdCardAlt} />
         Contacto
       </Link>

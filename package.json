@@ -2,6 +2,7 @@
   "name": "gatsby-starter-default",
   "private": false,
   "description": "Blog",
+  "homepage": "https://alfalmi.com/",
   "version": "0.1.0",
   "author": "PinoFloyd",
   "dependencies": {
@@ -61,7 +62,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "npm run clean && gatsby build --prefix-paths",
+    "predeploy": "gatsby build && echo alfalmi.com > ./public/CNAME",
+    "build": "npm run clean && gatsby build",
     "deploy": "gh-pages -d public",
     "develop": "env-cmd -f .env gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
@@ -72,7 +74,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/knightjdr/gatsby-starter-scientist"
+    "url": "www.alfalmi.com"
   },
   "bugs": {
     "url": "https://github.com/knightjdr/gatsby-starter-scientist/issues"
