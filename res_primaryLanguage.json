@@ -1,0 +1,232 @@
+{
+    "basic_info": {
+      "description_header": "Hola, mi nombre es Jesús Alfonso Álvarez Miranda, ",
+      "description": "👋 Programador freelance y amante de la tecnología dedicado al desarrollo web y desarrollo de software.",
+      "section_name": {
+        "about": "Acerca de",
+        "projects": "Proyectos",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Calculadora",
+        "startDate": "2020",
+        "description": "Calculadora hecha con React",
+        "images": [
+          "images/portfolio/calculadorajs.png"
+        ],
+        "url": "https://alfalmi.com/js-react-calculator/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Island Landing Page",
+        "startDate": "2021",
+        "description": "Landing page hecha con React y material-ui",
+        "images": [
+          "images/portfolio/landing_page.png"
+        ],
+        "url": "https://alfalmi.com/island-landing-page-react/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Ecommerce",
+        "startDate": "2021",
+        "description": "Ecommerce hecho con react y commercejs",
+        "images": [
+          "images/portfolio/commercejs.png"
+        ],
+        "url": "https://ecommercejs-stripe.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Lista de tareas",
+        "startDate": "2021",
+        "description": "To-do list app usando el local storage para guardar la información",
+        "images": [
+          "images/portfolio/todolist.png"
+        ],
+        "url": "https://alfalmi.com/to_do_List-localStorage/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Drum App",
+        "startDate": "2021",
+        "description": "Aplicacion que emula y graba los sonidos de una bateria hecho con React y AWS Storage",
+        "images": [
+          "images/portfolio/drum.png"
+        ],
+        "url": "https://alfalmi.com/drum-machine/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Aplicacion del clima",
+        "startDate": "2021",
+        "description": "Aplicacion del clima hecho con Javascript y la API OpenWeather",
+        "images": [
+          "images/portfolio/weatherapp.png"
+        ],
+        "url": "https://alfalmi.com/weather-app-owmapi/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Random Quote",
+        "startDate": "2021",
+        "description": "Aplicacion que genera una frase aleatoria hecha con Javascript y la API RandomQuotes",
+        "images": [
+          "images/portfolio/qt-gen.png"
+        ],
+        "url": "https://alfalmi.com/randomQuotesjs/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+          
+        ]
+      },
+      {
+        "title": "Memorama",
+        "startDate": "2021",
+        "description": "Juego Memorama hecho con ReactJS",
+        "images": [
+          "images/portfolio/memorama-img.png"
+        ],
+        "url": "https://alfalmi.com/memory-game/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Hotel reservation site",
+        "startDate": "2021",
+        "description": "Sitio para reservar una habitacion de hotel",
+        "images": [
+          "images/portfolio/reservation.png"
+        ],
+        "url": "https://alfalmi.com/resort-hotel-reservation-react/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+         
+          
+        ]
+      }
+     
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "title": "Front-End Developer",
+        "years": "8.2020 - today",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap"
+          
+        ]
+      },
+      {
+        "company": "Freelance",
+        "title": "Programmer",
+        "years": "01.2019 - today",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "Machine learning",
+          "Data Science",
+          "Web Development"
+        ]
+      }
+    ]
+  }
