@@ -7,18 +7,18 @@ import Research from './research/research-container';
 import { GutterLeft, GutterRight } from './gutter/gutter';
 
 import './home.css';
+import InstaFeed from './instagram/instafeed';
 
 const Home = () => (
   <>
     <Landing />
     <div className="home__layout">
       <GutterLeft />
-      <div className="home__inner">
-        
-        <Research />
+         
+        <InstaFeed />
    
         
-      </div>
+      
       <GutterRight />
     </div>
   </>

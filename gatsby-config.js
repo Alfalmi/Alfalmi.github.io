@@ -1,10 +1,10 @@
 module.exports = {
-  pathPrefix: "/gatsby-starter-scientist",
+  pathPrefix: "/alfalmipage",
   siteMetadata: {
     author: "PinoFloyd",
     description: "Alfalmi Tech",
-    siteUrl: "https://knightjdr.github.io/gatsby-starter-scientist",
-    title: "Blog",
+    siteUrl: "https://alfalmi.com/",
+    title: "TechJunkie",
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
@@ -42,6 +42,12 @@ module.exports = {
         display: "standalone",
         icon: "src/images/favicon.png",
       },
+    },
+    {
+      resolve: `gatsby-source-instagram-all`,
+      options: {
+        access_token: "IGQVJYdVFIWGlQUFZA6UjJIcVFnTU9QUHB0Qk5YdGtfUG1FZA3I5SHp2RnRTWEE2TjNySndTbEhyU0pnN1JJNXRWV0dNVmJ4RzlMTFk5eEItcVdYLUdReDJnay1hLUxlNXV4OXItNXdydzRfRHFRcnRqagZDZD",
+      }
     },
     {
       resolve: "gatsby-source-contentful",
