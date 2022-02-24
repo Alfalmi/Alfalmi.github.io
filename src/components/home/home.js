@@ -1,17 +1,21 @@
-import React from 'react';
-
+import React, { useEffect, useState } from 'react';
 
 import Landing from './landing/landing-container';
+import InstaFeed from './instagram/instafeed'
 
-import Research from './research/research-container';
 import { GutterLeft, GutterRight } from './gutter/gutter';
+import { Parallax } from 'react-scroll-parallax';
 
 import './home.css';
-import InstaFeed from './instagram/instafeed';
+
+
 
 const Home = () => (
   <>
-    <Landing />
+  
+  
+        <Landing />
+    
     <div className="home__layout">
       <GutterLeft />
          

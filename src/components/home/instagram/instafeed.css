@@ -5,6 +5,8 @@
           grid-template-columns:300px 300px 300px 300px 300px;
           grid-gap: 10px;
 }
+
+
 @media (max-width: 1400px) {
     .insta-feed {
         grid-template-columns:300px 300px 300px 300px;

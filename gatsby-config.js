@@ -4,7 +4,7 @@ module.exports = {
     author: "PinoFloyd",
     description: "Alfalmi Tech",
     siteUrl: "https://alfalmi.com/",
-    title: "TechJunkie",
+    title: "Tech Junkie",
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'

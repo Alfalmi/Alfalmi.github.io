@@ -24,7 +24,8 @@ const InstaFeed = () => {
     }
   `)
 
-  let arrayOfInstaImages = _get(data, "allInstagramContent.edges")
+  let arrayOfInstaImages = _get(data, "allInstagramContent.edges");
+  
   return (
     <div className="insta-feed">
       {arrayOfInstaImages.map((item, i) => {
