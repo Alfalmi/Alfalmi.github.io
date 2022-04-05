@@ -13,7 +13,7 @@ const getLinks = links => {
       </Link>
     ),
     publications: (
-      <Link key="about" to="https://alfalmi.com/portfolio">
+      <Link key="about" to="https://page-portfolio.netlify.app/">
         <FontAwesomeIcon icon={faIdCardAlt} />
         Contacto
       </Link>
